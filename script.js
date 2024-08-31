@@ -43,24 +43,7 @@ const questions = [
             { text: 'array int arr;', correct: false }
         ]
     },
-    {
-        question: 'What will be the output of the following code? \n```java\nSystem.out.println(5 + 3 * 2);\n```',
-        answers: [
-            { text: '16', correct: false },
-            { text: '11', correct: true },
-            { text: '10', correct: false },
-            { text: '13', correct: false }
-        ]
-    },
-    {
-        question: 'What is the result of the following operation in Java?\n```java\nint x = 10;\nx += 5;\n```',
-        answers: [
-            { text: '10', correct: false },
-            { text: '15', correct: true },
-            { text: '5', correct: false },
-            { text: '20', correct: false }
-        ]
-    },
+
     {
         question: 'Which method is used to start a thread in Java?',
         answers: [
