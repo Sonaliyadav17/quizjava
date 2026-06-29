@@ -181,7 +181,8 @@ function nextQuestion() {
     } else {
         showScore();
     }
-}
+}\
+
 
 function showScore() {
     console.log('Showing final score');
